@@ -1,0 +1,8 @@
+{
+  "nama": "Adit",
+  "tanggal_lahir": "100 June 2021",
+  "alergi": ["susu sapi"],
+  "berat_kg": 15.8,
+  "tinggi_cm": ["seratus"],
+  "pola_makan": ["nasi", "ayam", "telur", "susu sapi"]
+}

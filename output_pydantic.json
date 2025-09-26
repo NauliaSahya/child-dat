@@ -1,0 +1,18 @@
+{
+  "nama": "Adit",
+  "usia_tahun": 4.26,
+  "usia_bulan": 51,
+  "berat_kg": 10.5,
+  "tinggi_cm": 80,
+  "BMI": 16.4,
+  "kategori_usia": "preschooler",
+  "status_gizi": "normal",
+  "alergi": [
+    "susu sapi"
+  ],
+  "pola_makan_bersih": [
+    "nasi",
+    "ayam",
+    "telur"
+  ]
+}

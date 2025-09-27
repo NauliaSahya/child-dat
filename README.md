@@ -17,13 +17,21 @@ Terdapat **dua versi**:
 
 ## 📂 Struktur Project
    ├──main.py # Main program non-pydantic
+   
    ├── utils.py # Fungsi utilitas (dipakai di kedua versi)
+   
    ├── input.json # Contoh input
+   
    ├── output.json # Contoh output non-pydantic
+   
    ├── main_pydantic.py # Mian program pydantic
+   
    ├── models_pydantic.py # Model input/output pydantic
+   
    ├── output_pydantic.json # Contoh output pydantic
+   
    ├── requirements.txt # Library tambahan (untuk versi pydantic)
+   
    └── README.md
 
 📥 Contoh Input (input.json)
